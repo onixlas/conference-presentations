@@ -24,5 +24,5 @@ Here is a list of the most notable conferences represented in this repository:
 **Anomaly detection using Python: from theory to practice**
 
 * [Video](https://www.youtube.com/watch?v=yt55PeVFNyk) 
-* [Presentation](positive_hack_days_2025/michael_vasiljev_phd_anomaly.pdf)
+* [Presentation](positive_hack_days_2025/michael_vasiljev_phd_anomaly.pdf) [(view)](https://speakerdeck.com/slauton1234/anomaly-detection-with-python)
 * [Repository](https://github.com/onixlas/phd-2025-anomaly-detection)
